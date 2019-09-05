@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cbb067c-fb98-4f14-bc28-258d6b0404d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/model/item.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/model/item.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularclient/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularclient/src/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/angularclient" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PpKlug2C42oZgFeMzYpVvITRKA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.5118774" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="shop.blocking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elina.rostoka\IdeaProjects\shoppingspringangular\angularclient\src\app\item-form" />
+      <recent name="C:\Users\elina.rostoka\IdeaProjects\shoppingspringangular\angularclient\src\app\item-list" />
+      <recent name="C:\Users\elina.rostoka\IdeaProjects\shoppingspringangular\angularclient\src\app\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReactiveApp">
+    <configuration name="Groceries" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="shop.blocking.App" />
+      <module name="shoppingspringangular" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroceryServer" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="shop.Server" />
+      <module name="shoppingspringangular" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shop.reactive.ReactiveApp" />
+      <module name="shoppingspringangular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shop.reactive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Groceries" />
+      <item itemvalue="Application.GroceryServer" />
+      <item itemvalue="Application.ReactiveApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReactiveApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cbb067c-fb98-4f14-bc28-258d6b0404d5" name="Default Changelist" comment="" />
+      <created>1566565751898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566565751898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

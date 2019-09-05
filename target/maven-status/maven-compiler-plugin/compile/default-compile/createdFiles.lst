@@ -1,0 +1,9 @@
+shop\reactive\ItemMongoRepository.class
+shop\reactive\ItemService.class
+shop\reactive\Item$ItemBuilder.class
+shop\reactive\SessionConfig.class
+shop\reactive\DataInitializer.class
+shop\reactive\Item.class
+shop\reactive\ItemController.class
+shop\reactive\ReactiveApp.class
+shop\reactive\Type.class
